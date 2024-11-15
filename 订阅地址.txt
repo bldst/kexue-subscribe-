@@ -1,4 +1,2 @@
 https://raw.githubusercontent.com/ts-sf/fly/main/v2
-https://mirror.v2gh.com/https://raw.githubusercontent.com/ts-sf/fly/main/v2
 https://nodefree.githubrowcontent.com/2024/11/20241110.txt
-avaba
